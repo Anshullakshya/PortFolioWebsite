@@ -1,0 +1,1 @@
+"Welcome to my portfolio! As a budding full-stack developer, I'm excited to showcase my growing skills and projects. Explore my work to see how I've applied my knowledge of programming languages, frameworks, and databases to create MyPortfolioWebSite. I'm always eager to learn and collaborate on new projects. Let's connect!"
